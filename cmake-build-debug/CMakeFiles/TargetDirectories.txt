@@ -1,0 +1,6 @@
+/cygdrive/c/Git/lab_07_asio_server-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Git/lab_07_asio_server-master/cmake-build-debug/CMakeFiles/main.dir
+/cygdrive/c/Git/lab_07_asio_server-master/cmake-build-debug/CMakeFiles/log.dir
+/cygdrive/c/Git/lab_07_asio_server-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Git/lab_07_asio_server-master/cmake-build-debug/CMakeFiles/server.dir
+/cygdrive/c/Git/lab_07_asio_server-master/cmake-build-debug/CMakeFiles/client.dir

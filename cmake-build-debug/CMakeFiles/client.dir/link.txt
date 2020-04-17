@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libclientd.a  CMakeFiles/client.dir/sources/Client.cpp.o
+/usr/bin/ranlib.exe libclientd.a
